@@ -1,0 +1,147 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://cutewallpaper.org/24/abstract-background-png/transparent-76ea2-abstract-4098b-background-073b2-png-c5307-images-c10c2-free-8518a-transparent-84d16-transparent-74acb-abstract---background---download---kindpng.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  header {
+    background-color: #0f534a;
+    color: #daba30;
+    padding: 20px;
+    text-align: center;
+  }
+  nav .img{
+    margin: 15px;
+    padding: 20px;
+    height: 10px;
+    width: auto;
+    max-width: 23px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-flex;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #687583;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+  }
+  
+  nav ul li a:hover {
+    background-color: #27a868;
+  }
+  
+  .leftSection {
+    font-size: 2rem;
+
+}
+.leftSection .buttons{
+    padding: 25px 0;
+
+}
+.leftSection .btn {
+    padding: 10px;
+    background: rgb(2, 44, 18);
+    color: rgb(145, 212, 195);
+    border: 2px solid rgb(238, 239, 240);
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+  
+  h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  #search-container {
+    margin-bottom: 20px;
+  }
+  
+  #search-input {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #search-button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #results-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #post-container {
+    margin-bottom: 20px;
+  }
+  
+  #post-text {
+    width: 100%;
+    height: 120px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #post-button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  /* Additional styles for an attractive landing page */
+  h1 {
+    margin-top: 0;
+    font-size: 32px;
+  }
+  
+  nav {
+    margin-top: 20px;
+  }
+  
+  a {
+    transition: all 0.3s ease;
+  }
+  
+  a:hover {
+    background-color: #ff7f50;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  /* Color variations */
+  #search-button:hover,
+  #post-button:hover {
+    background-color: #ff7f50;
+  }
+  
+  
